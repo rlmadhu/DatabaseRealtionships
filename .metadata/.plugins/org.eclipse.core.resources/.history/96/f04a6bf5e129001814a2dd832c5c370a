@@ -1,0 +1,8 @@
+package com.techprimers.jpa.springjpahibernateexample.repository;
+
+import com.example.jpa.model.UsersContact;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UsersContactRepository extends JpaRepository<UsersContact, Integer> {
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="Child"/>
+<fullyQualifiedTypeName name="Parent"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="ParentChild"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="com.example.jpa.model.BookCategory"/>
+<fullyQualifiedTypeName name="com.example.jpa.repository.BookCategoryRepository"/>
+<fullyQualifiedTypeName name="com.example.jpa.model.Book"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-boot-web-application-example"/>
+<aop-project name="mockito-demo"/>
+<aop-project name="weather"/>
+<aop-project name="webapp-server"/>
+<aop-project name="spring-in-5-steps"/>
+<aop-project name="spring-jpa-hibernate-one-one"/>
+<aop-project name="jpa"/>
+<aop-project name="resource-server"/>
+<aop-project name="tonr"/>
+<aop-project name="authorization-server"/>
+<aop-project name="jpa-in-10-steps"/>
+<aop-project name="tonr2"/>
+<aop-project name="first-springboot-project"/>
+<aop-project name="spring-jpa-hibernate-example"/>
+<aop-project name="sparklr"/>
+<aop-project name="sparklr2"/>
+<aop-project name="gigy-example"/>
+<aop-project name="springboot-in-10-steps"/>
+</aop-reference-model>
